@@ -1,0 +1,35 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+#by
+{
+	background: rgb(0,221,221);
+}
+h1
+{
+	margin: 0px;
+	text-align: center;
+	height: 40px;
+	background: rgb(0,221,221);
+}
+#frm
+{
+	width: 400px;
+	height: 250px;
+	box-shadow: 1px 2px 7px #888888;
+	border-style: none;
+	background: rgb(233,233,233);
+	border-radius: 5px;
+	padding: 4px;
+	margin: 30px 20px 20px 160px;
+	display: inline-block;
+}
+img
+{
+	margin-left: 140px;
+	width: 120px;
+	height: 80px;
+}
